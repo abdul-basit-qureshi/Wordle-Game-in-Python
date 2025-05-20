@@ -6,8 +6,8 @@ Welcome to the Wordle game in Python! This is a text-based version of the classi
 2. The program will generate a random five-letter word as the solution.<br>
 3. Enter your guess for the word and press Enter.<br>
 4. After each guess, you will receive feedback on each letter:
-* '*' (question mark) indicates the letter is in the correct position.
-* '?' (asterisk) indicates the letter is present in the solution but in the wrong position.
+* '*' (asterisk) indicates the letter is in the correct position.
+* '?' (question mark) indicates the letter is present in the solution but in the wrong position.
 * '-' (hyphen) indicates the letter is not present in the solution. 
 <br>
 5. Keep guessing until you correctly guess the word or reach the maximum of six tries.<br>
@@ -23,6 +23,3 @@ The Wordle Game in Python does not require any external libraries. It runs on st
 3. Run the Python script
 4. Follow the on-screen instructions to play the game.
 
-
-## Contribution
-If you would like to contribute to this project, please fork the repository and create a pull request with your changes. I welcome any improvements or additional features to enhance the game.
